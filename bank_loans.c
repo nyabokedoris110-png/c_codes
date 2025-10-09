@@ -10,7 +10,7 @@ int main()
 {
 	int age;
 	float income;
-	
+	//prompt the user to enter their details
 	printf("Enter your age:-");
 	scanf("%d",&age);
 	
@@ -29,4 +29,5 @@ int main()
 	
 	return 0;
 }
+
 	
